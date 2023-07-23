@@ -23,7 +23,7 @@ This repository contains functionality to make OpenAI responses more domain-spec
 
 >>>>>>> main
 
-##Task : Develop a solution using Function calling.
+## Task : Develop a solution using Function calling.
 1. Design a prompt that analyzes the user input and provides a response indicating whether the question belongs to Mathematics, Science, or none of the above.
 2. Design a function that utilizes function calling to generate the subject metadata using OpenAI LLM.
 3. Modify your response so that if the question pertains to Mathematics or Science, it will return "You are not authorized to ask this question." Otherwise, it will function as it did previously.
