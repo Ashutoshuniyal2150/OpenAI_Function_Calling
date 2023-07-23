@@ -1,7 +1,7 @@
 import openai
 import json
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 function_descriptions = [
     {
