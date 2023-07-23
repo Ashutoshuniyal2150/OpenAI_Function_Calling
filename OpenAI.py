@@ -48,7 +48,7 @@ if __name__ == "__main__":
     }
 
     # Start the conversation
-    print("Chatbot: Hello! I can help you with some calculations. You can ask me questions like 'What is the volume of a cone?' or 'Calculate sin(90).'")
+    print("Chatbot: Hello! how can i assist you ")
     while True:
         user_input = input("You: ")
         if user_input.lower() == "exit":
